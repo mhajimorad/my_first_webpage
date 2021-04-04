@@ -1,0 +1,20 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: arial, sans-serif;
+  margin: 2em;
+  background-image: url('https://www.biospectrumasia.com/uploads/articles/australianflag-9618.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-position: right;
+  background-size: 50%;
+}
+
+h1 {
+  font-style: bold;
+}
+
+.blue_color {
+  color: blue;
+}
+
